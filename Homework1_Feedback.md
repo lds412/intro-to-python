@@ -1,12 +1,10 @@
-### Early Feedback for Homework 1 (THIS IS NOT YOUR GRADE, the assignment isn't due yet)
+### Early Feedback for Homework 1 (THIS IS NOT YOUR GRADE)
 
-Run on September 11, 03:44:26 AM.
+Run on September 15, 17:46:49 PM.
 
 + Pass: Change into directory "hw1".
 
 + Pass: Check that file "hw1.py" exists.
-
-+ Pass: Check that Python file "hw1.py" only imports permitted modules.
 
 + Pass: Check that a Python file "hw1.py" has no syntax errors.
 

@@ -6,7 +6,7 @@ Passing these tests is not a guarantee of a perfect homework score: the tests do
 
 Any questions/errors with the Automated Feedback should be reported to Nathan Taylor: taylo750@umn.edu
 
-Run on October 08, 01:57:27 AM.
+Run on October 09, 01:13:32 AM.
 
 + Pass: Change into directory "hw5".
 
@@ -60,6 +60,30 @@ Check that the result of evaluating
    tic_tac_toe() in ['X', 'O', 'D']
    ```
    matches the pattern `True`.
+
+   
+
+
+
+
++ Pass: 
+Check that the result of evaluating
+   ```
+   ([tic_tac_toe() for i in range(10000)]).count('X')
+   ```
+   is approximately `5849`.
+
+   
+
+
+
+
++ Pass: 
+Check that the result of evaluating
+   ```
+   ([tic_tac_toe() for i in range(10000)]).count('O')
+   ```
+   is approximately `2882`.
 
    
 

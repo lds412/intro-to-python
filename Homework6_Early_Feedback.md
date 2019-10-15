@@ -4,9 +4,9 @@ These tests are run on Monday and Tuesday nights around 11:55 PM, so if you didn
 
 Passing these tests is not a guarantee of a perfect homework score: the tests do not check everything that the TAs will.
 
-Any questions/errors with the Automated Feedback should be reported to Nathan Taylor: taylo750@umn.edu
+Any questions/errors with the Automated Feedback should be reported to Nathan Taylor: taylo740@umn.edu
 
-Run on October 15, 00:42:02 AM.
+Run on October 15, 00:55:07 AM.
 
 + Pass: Change into directory "hw6".
 

@@ -6,7 +6,7 @@ Passing these tests is not a guarantee of a perfect homework score: the tests do
 
 Any questions/errors with the Automated Feedback should be reported to Nathan Taylor: taylo740@umn.edu
 
-Run on October 22, 00:43:54 AM.
+Run on October 22, 00:56:34 AM.
 
 + Fail: Change into directory "hw7".
 

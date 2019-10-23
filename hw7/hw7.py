@@ -148,7 +148,8 @@ def tic_tac_toe():
             for move in open_slots(board):
                 board_2 = board[:]
                 board_2[move] = 'O'
-                if force_win(board_2) < min_pts:
+                curr_state = force_win(board_2)
+                if curr_state < min_pts:
                     min_pts = force_win(board_2)
                     best_move = move
             board[best_move] = 'O'

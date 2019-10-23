@@ -6,7 +6,7 @@ Passing these tests is not a guarantee of a perfect homework score: the tests do
 
 Any questions/errors with the Automated Feedback should be reported to Nathan Taylor: taylo740@umn.edu
 
-Run on October 23, 00:25:23 AM.
+Run on October 23, 00:34:12 AM.
 
 + Pass: Change into directory "hw7".
 
@@ -68,7 +68,7 @@ Check that the result of evaluating
 
 
 
-+ Fail: 
++ Pass: 
 Check that the result of evaluating
    ```
    ([tic_tac_toe() for i in range(20)]).count('X')
@@ -78,10 +78,9 @@ Check that the result of evaluating
    
 
 
-`TIMEOUT: Expression did not terminate within 30 seconds`
 
 
-+ Skip: 
++ Fail: 
 Check that the result of evaluating
    ```
    1 < ([tic_tac_toe() for i in range(60)]).count('D') < 30
@@ -91,5 +90,6 @@ Check that the result of evaluating
    
 
 
-  This test was not run because of an earlier failing test.
+`TIMEOUT: Expression did not terminate within 120 seconds`
+
 

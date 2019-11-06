@@ -6,7 +6,7 @@ Passing these tests is not a guarantee of a perfect homework score: the tests do
 
 Any questions/errors with the Automated Feedback should be reported to Nathan Taylor: taylo740@umn.edu
 
-Run on November 06, 03:18:27 AM.
+Run on November 06, 03:19:46 AM.
 
 + Pass: Change into directory "hw9".
 
@@ -77,16 +77,16 @@ Check that the result of evaluating
    Your solution produced: 
 ```
  
-Unfortunately he did .
-Did you .
-It's not a story the dark side that he taught his sleep .
-He had such a Sith legend .
-He became so wise he could use the wise .
-He could even keep the only thing he knew then his power which eventually of Darth Plagueis the dark side that he knew then his sleep .
-He had such a story the Force is a Sith so powerful and so powerful and so wise he was losing his apprentice everything he could use the midichlorians to be unnatural .
-The dark side of the Force to be unnatural .
-He became so powerful the only thing he taught his apprentice killed him in his sleep .
-Ironic .
+The dark side of the only thing he was a knowledge of the Force is a knowledge of course he cared about from death but not himself .
+He became so wise .
+It's not himself .
+He had such a story the ones he could save others from death but not himself .
+I thought not a Sith so wise he could save others from dying .
+He could even keep the Tragedy of course he knew then his sleep .
+Unfortunately he could save others from death but not himself .
+I thought not .
+The dark side of Darth Plagueis the Force to influence the Force to many abilities some consider to be unnatural .
+It's a Sith so wise he cared about from dying .
 ```
 
 

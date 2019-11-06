@@ -6,7 +6,7 @@ Passing these tests is not a guarantee of a perfect homework score: the tests do
 
 Any questions/errors with the Automated Feedback should be reported to Nathan Taylor: taylo740@umn.edu
 
-Run on November 05, 01:46:12 AM.
+Run on November 06, 03:18:27 AM.
 
 + Pass: Change into directory "hw9".
 
@@ -77,16 +77,16 @@ Check that the result of evaluating
    Your solution produced: 
 ```
  
-He could save others from death but not himself .
-He became so powerful the Sith so wise .
-He could use the ones he was a story the midichlorians to influence the midichlorians to create life .
-The dark side of the only thing he could even keep the dark side that he could use the Force to influence the Jedi would tell you .
-He could save others from death but not a pathway to influence the ones he did .
+Unfortunately he did .
+Did you .
+It's not a story the dark side that he taught his sleep .
 He had such a Sith legend .
-It's not .
-I thought not a knowledge of the ones he taught his power which eventually of the wise .
-He became so powerful the Force is a Dark Lord of was a Sith legend .
-It's a story the wise he cared about from dying .
+He became so wise he could use the wise .
+He could even keep the only thing he knew then his power which eventually of Darth Plagueis the dark side that he knew then his sleep .
+He had such a story the Force is a Sith so powerful and so powerful and so wise he was losing his apprentice everything he could use the midichlorians to be unnatural .
+The dark side of the Force to be unnatural .
+He became so powerful the only thing he taught his apprentice killed him in his sleep .
+Ironic .
 ```
 
 

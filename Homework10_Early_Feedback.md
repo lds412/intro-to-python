@@ -6,7 +6,7 @@ Passing these tests is not a guarantee of a perfect homework score: the tests do
 
 Any questions/errors with the Automated Feedback should be reported to Nathan Taylor: taylo740@umn.edu
 
-Run on November 12, 03:26:20 AM.
+Run on November 12, 03:35:14 AM.
 
 + Pass: Change into directory "hw10".
 
@@ -408,6 +408,18 @@ Check that the result of evaluating
    str(Branch('rogueport.csv')) in str(Company('Zzzzz', [Branch('normandy.csv'),Branch('rogueport.csv'),Branch('guardia.csv')]))
    ```
    matches the pattern `True`.
+
+   
+
+
+
+
++ Pass: 
+Check that the result of evaluating
+   ```
+   cmp = Company('Zzzzz', [Branch('guardia.csv')]); cmp.synergize(); {emp.name for bnch in cmp.branches for emp in bnch.team}
+   ```
+   matches the pattern `{'Marle','Lucca','Frog','Magus'}`.
 
    
 

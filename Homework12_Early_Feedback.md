@@ -6,7 +6,7 @@ Note that due to the nature of Homework 12, the tests for this week are very min
 
 Any questions/errors with the Automated Feedback should be reported to Nathan Taylor: taylo740@umn.edu
 
-Run on November 26, 00:34:06 AM.
+Run on November 27, 00:45:21 AM.
 
 + Fail: Change into directory "hw12".
 
